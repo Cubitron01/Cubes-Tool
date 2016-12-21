@@ -1,0 +1,10 @@
+								if (isNull cursorTarget) exitWith {};
+			        private ["_vcl","_cid","_oid","_ouid","_text","_lbcode"];
+			        _vcl = (typeOf cursorTarget);
+			        _cid = (cursorTarget getVariable ["CharacterID","0"]);
+			        _lbcode = if ((_vcl == "LockboxStorage") || (_vcl == "LockboxStorageLocked")) then {_cid call csFnc_lbCode} else {""};
+			        _oid = (cursorTarget getVariable ["ObjectID","0"]);
+			        _ouid = (cursorTarget getVariable ["ObjectUID","0"]);
+			        _text = format ["%1, CharacterID: %2, ObjectID: %3, ObjectUID: %4%5",_vcl,_cid,_oid,_ouid,_lbcode];
+			        systemChat _text;
+		};
