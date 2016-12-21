@@ -4,8 +4,9 @@ Epoch Admintool 1.0.6 Pre-realease Version 0.66
 Einfaches Admintool mit ein paar überarbeiteten Variablen und Blubb, von bereits bestehenden scripten übernommen usw.
 
 
-Danke und Credits gehen definitv an meine Oma und das ganze Internet
+Danke und Credits gehen definitv an meine Oma und das ganze Internet.
 
+Dayz Antihack bitte ausschalten
 In der init ganz unten:
 execVM "AdminV\exec.sqf";
 
