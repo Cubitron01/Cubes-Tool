@@ -1,5 +1,5 @@
 # Cubes-Tool
-Epoch Admintool 1.0.6 Pre-realease Version 0.66
+Epoch Admintool 1.0.6 Pre-realease Version 0.67
 
 Einfaches Admintool mit ein paar überarbeiteten Variablen und Blubb, von bereits bestehenden scripten übernommen usw.
 
@@ -28,3 +28,5 @@ Features:
 -Keybinds Lock/unlock give Key
 and some other cool stuff
 
+Version 0.67
+-AntiZombieaggro hinzugefügt
