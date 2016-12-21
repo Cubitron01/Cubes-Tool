@@ -1,5 +1,5 @@
 /*Credits to all i know: Oma, Opa, Mutter;vater,Onkel,Bruder,Schwester,Nachbar,Postbote,Milchman und Frau Merkel :-)
-Modified by Cubi alias Cubi aka Cubi und dann nochmal Cubi :-) Version 0.66
+Modified by Cubi alias Cubi aka Cubi und dann nochmal Cubi :-) Version 0.67
 */
 
 
@@ -26,6 +26,7 @@ MainScripts =
 		["Teleport", [],  "", -5, [["expression", format[_EXECscript1,"Teleport.sqf"]]], "1", "1"],
 		["Vehicle Godmode", [], "", -5, [["expression", format[_EXECscript1, "PlayerVehicleGod.sqf"]]], "1", "1"],
 		["Zombie Shield", [],  "", -5, [["expression", format[_EXECscript1,"Zombieshield.sqf"]]], "1", "1"],
+		["Zombieaggro", [],  "", -5, [["expression", format[_EXECscript1,"zombieaggro.sqf"]]], "1", "1"],
 		["No Grass", [],  "", -5, [["expression", format[_EXECscript1,"nograss.sqf"]]], "1", "1"],
 		["Heal Myself", [],  "", -5, [["expression", format[_EXECscript1,"heal.sqf"]]], "1", "1"],
 		["Heal Player", [],  "", -5, [["expression", format[_EXECscript1,"healall.sqf"]]], "1", "1"],

@@ -1,7 +1,7 @@
 if (isNil "cubi_ESP") then {cubi_ESP = 0;};
 if (cubi_ESP == 0) then {
 	systemChat format["<Admin Menu> ESP ON"];
-	krynomoreESP =	{
+	cubiESP =	{
 		disableSerialization;
 		//id/006Rehwald
 		if (isNil "Esp_Id_setter") then {Esp_Id_setter = 2733;};
