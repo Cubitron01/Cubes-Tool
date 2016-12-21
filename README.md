@@ -29,4 +29,4 @@ Features:
 and some other cool stuff
 
 Version 0.67
--AntiZombieaggro hinzugefügt
+-AntiZombieaggro hinzugefügt ( einfach Ordner ersetzten)
