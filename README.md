@@ -33,3 +33,4 @@ Version 0.67
 
 Version 0.70
 -gänderter Godmodus
+- Safemarker update
