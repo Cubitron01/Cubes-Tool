@@ -2,7 +2,7 @@
 		{
 			while {markadSafe == 1} do
 			{
-				Mystid_Add_SafeM = [] + (allMissionObjects "SafeStorage"+allMissionObjects "SafeStorageLocked"+allMissionObjects "LockboxStorageLocked"+allMissionObjects "LockboxStorage");
+				Mystid_Add_SafeM = [] + (allMissionObjects "VaultStorage"+allMissionObjects "VaultStorageLocked"+allMissionObjects "LockboxStorageLocked"+allMissionObjects "LockboxStorage");
 				if !(markadSafe == 1) exitWith {
 					for "_i" from 0 to 8888 do {deleteMarkerLocal ("SafeMarkers" + (str _i));};
 				};
