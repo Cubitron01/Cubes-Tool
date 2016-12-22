@@ -1,5 +1,5 @@
 # Cubes-Tool
-Epoch Admintool 1.0.6 Pre-realease Version 0.67
+Epoch Admintool 1.0.6 Pre-realease Version 0.70
 
 Einfaches Admintool mit ein paar überarbeiteten Variablen und Blubb, von bereits bestehenden scripten übernommen usw.
 
@@ -30,3 +30,6 @@ and some other cool stuff
 
 Version 0.67
 -AntiZombieaggro hinzugefügt ( einfach Ordner ersetzten)
+
+Version 0.70
+-gänderter Godmodus
