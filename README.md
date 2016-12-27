@@ -34,3 +34,7 @@ Version 0.67
 Version 0.70
 -gänderter Godmodus
 - Safemarker update
+
+Version 0.75
+-Dauerhaftes Scrollmenu (verschwindet nicht mehr bei skin wechsel und im Fahrzeug)
+-Skin/GearMenu hinzugefügt
