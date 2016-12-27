@@ -1,0 +1,33 @@
+GearRemove = (vehicle player);
+removeAllWeapons GearRemove;
+removeAllItems GearRemove;
+removebackpack GearRemove;
+
+
+GearAdd = (vehicle player);
+GearAdd addWeapon 'DMR_DZ';
+GearAdd addMagazine '20Rnd_762x51_DMR';
+GearAdd addMagazine '20Rnd_762x51_DMR';
+GearAdd addMagazine '20Rnd_762x51_DMR';
+GearAdd addMagazine '20Rnd_762x51_DMR';
+GearAdd addMagazine 'Skin_Sniper1_DZ';
+GearAdd addMagazine 'ItemMorphine';
+GearAdd addMagazine 'ItemBloodbag';
+GearAdd addMagazine 'ItemPainkiller'; 
+GearAdd addMagazine 'ItemEpinephrine';
+GearAdd addMagazine 'ItemSodaPepsi';
+GearAdd addWeapon 'M9SD';
+GearAdd addMagazine '15Rnd_9x19_M9SD';
+GearAdd addMagazine '15Rnd_9x19_M9SD';
+GearAdd addMagazine 'ItemBandage';
+GearAdd addMagazine 'ItemBandage';
+GearAdd addWeapon 'Binocular_Vector';
+GearAdd addWeapon 'ItemCompass';
+GearAdd addWeapon 'ItemMap';
+GearAdd addWeapon 'ItemWatch';
+GearAdd addWeapon 'ItemHatchet';
+GearAdd addWeapon 'ItemKnife';
+GearAdd addWeapon 'Itemmatchbox';
+GearAdd addWeapon 'Itemetool';
+GearAdd addWeapon 'Itemtoolbox';
+GearAdd addBackpack 'DZ_ALICE_Pack_EP1';

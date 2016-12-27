@@ -1,5 +1,5 @@
 /*Credits to all i know: Oma, Opa, Mutter;vater,Onkel,Bruder,Schwester,Nachbar,Postbote,Milchman und Frau Merkel :-)
-Modified by Cubi alias Cubi aka Cubi und dann nochmal Cubi :-) Version 0.70
+Modified by Cubi alias Cubi aka Cubi und dann nochmal Cubi :-) Version 0.80
 */
 
 
@@ -15,6 +15,7 @@ _pathtoscripts = "AdminV\scripts\";
 				 ["Delete Cursor Object", [5], "", -5, [["expression", format[_EXECscript1,"deleteobject.sqf"]]], "1", "1"],
 				 ["Key Binding", [6],  "", -5, [["expression", format[_EXECscript1,"keybindings.sqf"]]], "1", "1"],
 				 ["Vehicle Menu >>", [7], "#USER:VehicleMenu", -5, [["expression", ""]], "1", "1"],
+				 ["Gear/Skin Menu >>", [8], "#USER:GearMenu", -5, [["expression", ""]], "1", "1"],
 				["", [-1], "", -5, [["expression", ""]], "1", "0"],
 			["Exit", [13], "", -3, [["expression", ""]], "1", "1"]		
 		];
@@ -120,6 +121,16 @@ VehicleTempMenu2 =
 	["ATV",[],"",-5,[["expression",format[_EXECtempVeh,"ATV_US_EP1"]]],"1","1"],
 	["", [], "", -5, [["expression", ""]], "1", "0"],
 		["Exit", [13], "", -3, [["expression", ""]], "1", "1"]
+];
+
+GearMenu = 
+[
+	["",true],
+		["M4 Holo", [2],  "", -5, [["expression", format[_EXECscript1,"m4h.sqf"]]], "1", "1"],
+		["DMR", [3],  "", -5, [["expression", format[_EXECscript1,"dmr.sqf"]]], "1", "1"],
+		["M4 CCO SD", [4],  "", -5, [["expression", format[_EXECscript1,"m4.sqf"]]], "1", "1"],
+		["", [], "", -5, [["expression", ""]], "1", "0"],	
+				["Exit", [13], "", -3, [["expression", ""]], "1", "1"]
 ];
    showCommandingMenu "#USER:ActionMenu";
    
