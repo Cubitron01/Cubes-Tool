@@ -32,7 +32,7 @@ Version 0.67
 -AntiZombieaggro hinzugefügt ( einfach Ordner ersetzten)
 
 Version 0.70
--gänderter Godmodus
+-geänderter Godmodus
 - Safemarker update
 
 Version 0.75
