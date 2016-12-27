@@ -1,5 +1,5 @@
 # Cubes-Tool
-Epoch Admintool 1.0.6 Pre-realease Version 0.80
+Epoch Admintool 1.0.6 Pre-release Version 0.80
 
 Einfaches Admintool mit ein paar überarbeiteten Variablen und Blubb, von bereits bestehenden scripten übernommen usw.
 
