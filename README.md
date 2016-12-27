@@ -32,9 +32,9 @@ Version 0.67
 -AntiZombieaggro hinzugefügt ( einfach Ordner ersetzten)
 
 Version 0.70
--geänderter Godmodus
+- geänderter Godmodus
 - Safemarker update
 
 Version 0.80
--Dauerhaftes Scrollmenu (verschwindet nicht mehr bei skin wechsel und im Fahrzeug)
--Skin/GearMenu hinzugefügt
+- Dauerhaftes Scrollmenu (verschwindet nicht mehr bei skin wechsel und im Fahrzeug)
+- Skin/GearMenu hinzugefügt
