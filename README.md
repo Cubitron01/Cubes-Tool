@@ -1,5 +1,5 @@
 # Cubes-Tool
-Epoch Admintool 1.0.6 Pre-release Version 0.80
+Epoch Admintool 1.0.6 Pre-release Version 0.85
 
 Einfaches Admintool mit ein paar überarbeiteten Variablen und Blubb, von bereits bestehenden scripten übernommen usw.
 
@@ -37,4 +37,7 @@ Version 0.70
 
 Version 0.80
 - Dauerhaftes Scrollmenu (verschwindet nicht mehr bei skin wechsel und im Fahrzeug)
+Version 0.85
+- Delete object ( gefixed, permanent nun)
+- Vehicles Spawn ( evtl fix Killing a Hacker)
 - Skin/GearMenu hinzugefügt
