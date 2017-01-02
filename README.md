@@ -37,8 +37,8 @@ Version 0.70
 
 Version 0.80
 - Dauerhaftes Scrollmenu (verschwindet nicht mehr bei skin wechsel und im Fahrzeug)
+- Delete object ( gefixed, permanent nun)
 
 Version 0.85
-- Delete object ( gefixed, permanent nun)
 - Vehicles Spawn ( evtl fix Killing a Hacker)
 - Skin/GearMenu hinzugefügt 
