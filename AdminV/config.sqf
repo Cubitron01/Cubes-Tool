@@ -1,5 +1,5 @@
 /*Credits to all i know: Oma, Opa, Mutter;vater,Onkel,Bruder,Schwester,Nachbar,Postbote,Milchman und Frau Merkel :-)
-Modified by Cubi alias Cubi aka Cubi und dann nochmal Cubi :-) Version 0.80
+Modified by Cubi alias Cubi aka Cubi und dann nochmal Cubi :-) Version 0.85
 */
 
 
